@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ParallelTsort::VERSION
   spec.authors       = ["Trae Robrock"]
   spec.email         = ["trobrock@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Simple tool to resolve dependencies that can be run in parallel.}
+  spec.summary       = %q{Simple tool to resolve dependencies that can be run in parallel.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
